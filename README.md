@@ -1,70 +1,86 @@
-# My First React Application 
+# My First React Application ✌️
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Site is live on: 
+               👉  https://mytodos2.web.app/
+               
+## About React ::
+  
+  - Popular Frontend Framework of JavaScript
+  - It is maintained by Facebook (Meta)
+  - React means React.Js
+  - Used to design Single Page Applications (SPA)
+  - website having only one web page
+  - Website is divided into components
+  - Which increase the maintainability of your website
+  - Example - Youtube and Gmail are React Applications
+  - In SPA when we go from one page to another page never reload...
+  - React is very fast 
+  - Follows DRY Principle
+  - Alternative of React
+       - Angular i.e Angular.Js -> (By Google)
+       - Veu i.e Veu.Js
+       - This are also Javascript Frameworks
+  
+## Pre-Requisites:
+   
+   - Install Node.js:
+            - The Runtime of JavaScript
+            - Backend Framework of JavaScript
+            - Used with Express.Js
+            - Vanilla JavaScript means Deafult JavaScript
+            
+   - Along with Node.Js we get extra two tools i.e npm and npx
+              - npm:
+                  - Node Packege Manager
+                  - Used to install Third Party Modules
+                  - Manage your Packages
+                  - Install + Execute
+                  
+              - npx: 
+                  - Node Packege Execute
+                  - Used to Execute packages
+                  - Execute your Packages
+                  - Execute without Install 
+    
+## Developers Type:
+     - Front End   -> HTML, CSS, JS
+     - Back End    -> Server [ Node.Js OR PHP OR Django ] + Database [ MongoDB OR MySQL ] 
+                   -> [ Node.Js + MongoDB ] OR [ PHP/Django + MySQL ] Best combinations
+                   -> Node.Js - Based on JavaScript
+                   -> DJango OR Jango - Based on Python
+                   -> PHP is old one
+                   
+     - Full Stack  -> Frontend + Backend
+     - Mern Stack  -> MERN - MongoDB + Express.Js + React.Js + Node.Js
+     - Mean Stack  -> MEAN - MongoDB + Express.Js + Angular.Js + Node.Js
 
-## Available Scripts
+## Learn more about react:
+               👉 https://reactjs.org
+               
+               
+## Important Scripts:
 
-In the project directory, you can run:
+### `npm create-react-app app_name`
+Generates basic code of react for you...
 
 ### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Runs the app in the development mode.
+On http://localhost:3000
 
-The page will reload when you make changes.\
+The page will reload when you make changes.
 You may also see any lint errors in the console.
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
 ### `npm run build`
 
-Builds the app for production to the `build` folder.\
+Builds the app for production to the `build` folder.
 It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
+The build is minified and the filenames include the hashes.
 Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Convert React website to static website
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
