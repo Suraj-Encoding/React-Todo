@@ -15,7 +15,9 @@
   - In SPA when we go from one page to another page never reload...
   - React is very fast 
   - Follows DRY Principle
-  - Alternative of React
+  - React is complete JavaScript -> In which we write JSX
+  - JSX -> JavaScript mixed with HTML
+  - Alternative of React:
        - Angular  i.e  Angular.Js -> (By Google)
        - Veu  i.e  Veu.Js
        - These are also Javascript Frameworks
@@ -29,6 +31,7 @@
             - Vanilla JavaScript means Deafult JavaScript
             
    - Along with Node.Js we get extra two tools i.e npm and npx
+             
               - npm:
                   - Node Packege Manager
                   - Used to install Third Party Modules
