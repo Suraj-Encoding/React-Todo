@@ -3,7 +3,7 @@
 ## Site is Live on : 👇
                https://mytodos2.web.app/
                
-##  Best README.md File ever you have read  about React by Suraj Dalvi❤️
+##  Best  README  ever you have read about React by Suraj Dalvi...❤️
 
 
 ## About React :
@@ -39,7 +39,7 @@
              
               - npm:
                   - Node Packege Manager
-                  - Used to install Third Party Modules
+                  - Used to Install Third Party Modules
                   - Manage your Packages
                   - Install + Execute
                   
