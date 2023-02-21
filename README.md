@@ -1,9 +1,8 @@
-# My First React Application ✌️
+# 🌺 My First React Application 🌺
 
-# Site is live on: 
-               👉  https://mytodos2.web.app/
+## Site is Live on :  👉  https://mytodos2.web.app/
                
-## About React ::
+## About React :
   
   - Popular Frontend Framework of JavaScript
   - It is maintained by Facebook (Meta)
@@ -17,9 +16,9 @@
   - React is very fast 
   - Follows DRY Principle
   - Alternative of React
-       - Angular i.e Angular.Js -> (By Google)
-       - Veu i.e Veu.Js
-       - This are also Javascript Frameworks
+       - Angular  i.e  Angular.Js -> (By Google)
+       - Veu  i.e  Veu.Js
+       - These are also Javascript Frameworks
   
 ## Pre-Requisites:
    
@@ -43,11 +42,11 @@
                   - Execute without Install 
     
 ## Developers Type:
-     - Front End   -> HTML, CSS, JS
+     - Front End   -> HTML + CSS + JavaScript
      - Back End    -> Server [ Node.Js OR PHP OR Django ] + Database [ MongoDB OR MySQL ] 
                    -> [ Node.Js + MongoDB ] OR [ PHP/Django + MySQL ] Best combinations
                    -> Node.Js - Based on JavaScript
-                   -> DJango OR Jango - Based on Python
+                   -> DJango i.e Jango - Based on Python
                    -> PHP is old one
                    
      - Full Stack  -> Frontend + Backend
