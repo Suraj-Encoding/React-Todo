@@ -1,19 +1,22 @@
   # 🌺 My First React Application 🌺
 
-## Site is Live on : 
-            👉   https://mytodos2.web.app/
+## Site is Live on : 👇
+               https://mytodos2.web.app/
                
+##  Best README.md File ever you have read  about React by Suraj Dalvi❤️
+
+
 ## About React :
   
   - Popular Frontend Framework of JavaScript
   - It is maintained by Facebook (Meta)
   - React means React.Js
   - Used to design Single Page Applications (SPA)
-  - website having only one web page
+  - Website having only one web page
   - Website is divided into components
   - Which increase the maintainability of your website
-  - Example - Youtube and Gmail are React Applications
-  - In SPA when we go from one page to another page never reload...
+  - Example - Youtube and Email are React Applications
+  - In SPA when we go from one page to another page, website never reload..
   - React is very fast 
   - Follows DRY Principle
   - React is complete JavaScript -> In which we write JSX
@@ -58,13 +61,14 @@
      - Mern Stack  -> MERN - MongoDB + Express.Js + React.Js + Node.Js
      - Mean Stack  -> MEAN - MongoDB + Express.Js + Angular.Js + Node.Js
 
-## Learn more about react:
-               👉   https://reactjs.org
+## Learn more about react:  👇
+                   https://reactjs.org
                
                
 ## Important Scripts:
 
 ### `npm create-react-app app_name`
+
 Generates basic code of react for you
 
 ### `npm start`
@@ -84,7 +88,7 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
-Convert React website to static website
+It convert React website to static website
 
 
 
