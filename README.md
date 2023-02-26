@@ -15,7 +15,7 @@
   - Website having only one web page
   - Website is divided into components
   - Which increase the maintainability of your website
-  - Example - Youtube and Email are React Applications
+  - Example - Youtube and Gmail are React Applications
   - In SPA when we go from one page to another page, website never reload..
   - React is very fast 
   - Follows DRY Principle
