@@ -1,9 +1,9 @@
-  # 🌺 My First React Application 🌺
+  # 🕸️ My First React Application 🕸️
 
 ## Site is Live on : 👇
                https://mytodos2.web.app/
                
-##  Best  README  ever you have read about React by Suraj Dalvi...❤️
+##  Best  README  ever you have read about React by Suraj Dalvi...🟣
 
 
 ## About React :
